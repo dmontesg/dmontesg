@@ -31,6 +31,9 @@ Duque-Arribas, Christian; Montes, David; et al. [2022zndo...7428860D](https://ui
 *Photometric Calibrations of M-dwarf Metallicity with Markov Chain Monte Carlo and Bayesian Inference* 
 Duque-Arribas, Christian; Montes, David; et al. [2023ApJ...944..106D](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..106D/abstract)
 
+* [***METaMorPHosis-NN***](https://github.com/chrduque/metamorphosis-NN): A neural network approach to determining photometric metallicities of M-type dwarf stars. References:
+Duque-Arribas, et al. [2025A&A...698L..12D](https://ui.adsabs.harvard.edu/abs/2025A%26A...698L..12D/abstract)
+
 **Radial velocities**
 
 <!--
