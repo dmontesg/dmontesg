@@ -28,13 +28,16 @@ Tabernero, H. M.; Marfil, E.; Montes, D., et al. [2022A&A...657A..66T](https://u
 
 * [***METaMorPHosis***](https://github.com/chrduque/metamorphosis): METallicity for M dwarfs using PHotometry. References:
 Duque-Arribas, Christian; Montes, David; et al. [2022zndo...7428860D](https://ui.adsabs.harvard.edu/abs/2022zndo...7428860D/abstract),
-*Photometric Calibrations of M-dwarf Metallicity with Markov Chain Monte Carlo and Bayesian Inference* 
+*"Photometric Calibrations of M-dwarf Metallicity with Markov Chain Monte Carlo and Bayesian Inference"*, 
 Duque-Arribas, Christian; Montes, David; et al. [2023ApJ...944..106D](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..106D/abstract)
 
-* [***METaMorPHosis-NN***](https://github.com/chrduque/metamorphosis-NN): A neural network approach to determining photometric metallicities of M-type dwarf stars. References:
+* [***METaMorPHosis-NN***](https://github.com/chrduque/metamorphosis-NN):  METallicity for M dwarfs using PHotometry and Neural Networks. References: *"A neural network approach to determining photometric metallicities of M-type dwarf stars"*, 
 Duque-Arribas, et al. [2025A&A...698L..12D](https://ui.adsabs.harvard.edu/abs/2025A%26A...698L..12D/abstract)
 
 **Radial velocities**
+
+* [***SERVAL***](https://github.com/mzechmeister/serval): SpEctrum Radial Velocity AnaLyser
+Zechmeister, M.; Reiners, A.; Amado, P. J., et al. [2018A&A...609A..12Z](https://ui.adsabs.harvard.edu/abs/2019A%26A...628A.131T/abstract), [ascl.net/2006.011](https://ascl.net/2006.011)
 
 <!--
 
