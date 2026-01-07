@@ -37,7 +37,7 @@ Duque-Arribas, et al. [2025A&A...698L..12D](https://ui.adsabs.harvard.edu/abs/20
 **Radial velocities**
 
 * [***SERVAL***](https://github.com/mzechmeister/serval): SpEctrum Radial Velocity AnaLyser
-Zechmeister, M.; Reiners, A.; Amado, P. J., et al. [2018A&A...609A..12Z](https://ui.adsabs.harvard.edu/abs/2019A%26A...628A.131T/abstract), [ascl.net/2006.011](https://ascl.net/2006.011)
+Zechmeister, M.; Reiners, A.; Amado, P. J., et al. [2018A&A...609A..12Z](https://ui.adsabs.harvard.edu/abs/2018A%26A...609A..12Z/abstract), [ascl.net/2006.011](https://ascl.net/2006.011)
 
 <!--
 
