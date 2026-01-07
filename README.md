@@ -1,10 +1,10 @@
-## Python Codes I contributed:  
+## Python codes I contributed:  
 
-* [*SteParKin*](https://github.com/dmontesg/dmontesg/SteParKin) python code to determine Galactic-space velocity components (U, V, W), evaluate their membership to young kinematic moving groups and associations and assign their stellar populations.
+* [***SteParKin***](https://github.com/dmontesg/SteParKin/) python code to determine Galactic-space velocity components (U, V, W), evaluate their membership to young kinematic moving groups and associations and assign their stellar populations.
 References: 
 Montes et al. [2001MNRAS.328...45M](http://ui.adsabs.harvard.edu/abs/2001MNRAS.328...45M/abstract) and Cortés-Contreras et al. [2024A&A...692A.206C](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.206C/abstract)
 
-* [*iSTARMOD*](https://github.com/flabarga/iSTARMOD) python code implementing Spectral Subtraction Technique to study chromospheric activity in Cool Stars.
+* [***iSTARMOD***](https://github.com/flabarga/iSTARMOD) python code implementing Spectral Subtraction Technique to study chromospheric activity in Cool Stars.
 Reference: 
 *"iSTARMOD: A Python Code to Quantify Chromospheric Activity by Using the Spectral Subtraction Technique"*,
 Labarga & Montes
